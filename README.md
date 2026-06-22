@@ -36,7 +36,7 @@ Tap the dice image to generate a random dice value.
 #### Shake to Roll
 Shake your device to trigger an automatic dice roll.
 
-> Add a GIF or video demonstration here.
+> ![Demo](assets/images/Roll-a-dice-demo.gif) .
 
 ---
 
@@ -46,7 +46,7 @@ Add screenshots of your application here.
 
 | Home Screen |
 |------------|
-| ![Screenshot](assets/images/screenshot.png) |
+| ![Screenshot](assets/images/screenshot.jpg) |
 
 ---
 
