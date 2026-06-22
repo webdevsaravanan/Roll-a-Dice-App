@@ -46,7 +46,7 @@ Add screenshots of your application here.
 
 | Home Screen |
 |------------|
-| ![Screenshot](assets/images/screenshot.jpg) |
+| ![Screenshot](assets/images/Screenshot.jpg) |
 
 ---
 
